@@ -26,3 +26,7 @@
 
 * [cybrary](https://www.cybrary.it)
 
+### Misc
+
+* [metasploitable3](https://github.com/rapid7/metasploitable3)
+
