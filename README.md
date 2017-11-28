@@ -1,2 +1,4 @@
-# training
-Notes on offensive training
+## Offensive Training Notes
+
+
+
