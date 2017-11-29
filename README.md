@@ -21,6 +21,8 @@
 ### Blogs
 
 * [abatchy](http://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
+* [orange](http://blog.orange.tw/)
+* [ctfhacker](http://ctfhacker.com/)
 
 ### Lessons - Videos
 
@@ -29,4 +31,10 @@
 ### Misc
 
 * [metasploitable3](https://github.com/rapid7/metasploitable3)
+
+### Study write-ups/solutions/presentations
+
+* [Hacker0x01/h1 - h1-212-ctf-solutions](https://github.com/Hacker0x01/h1-212-ctf-solutions)
+* [ctfs - write-ups](https://github.com/ctfs)
+* [sectalks](https://github.com/sectalks/sectalks/)
 
